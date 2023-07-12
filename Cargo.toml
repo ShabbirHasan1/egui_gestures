@@ -1,0 +1,10 @@
+[package]
+name = "egui_gestures"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22.0"
+egui = "0.22.0"
+lazy_static = "1.4.0"
+ordered-float = { version = "3.0", default-features = false }
